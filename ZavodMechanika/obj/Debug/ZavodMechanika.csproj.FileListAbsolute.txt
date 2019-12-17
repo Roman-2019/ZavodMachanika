@@ -1,0 +1,6 @@
+E:\C\Practice10\ZavodMechanika\bin\Debug\ZavodMechanika.exe.config
+E:\C\Practice10\ZavodMechanika\bin\Debug\ZavodMechanika.exe
+E:\C\Practice10\ZavodMechanika\bin\Debug\ZavodMechanika.pdb
+E:\C\Practice10\ZavodMechanika\obj\Debug\ZavodMechanika.csprojAssemblyReference.cache
+E:\C\Practice10\ZavodMechanika\obj\Debug\ZavodMechanika.exe
+E:\C\Practice10\ZavodMechanika\obj\Debug\ZavodMechanika.pdb
